@@ -21,7 +21,7 @@ I'm Oswaldo, also named Oswi, studying for a Bachelor of Science⚛️ and Engin
 - 💻 Currently working on Soft Matter with [TrackPy](http://soft-matter.github.io/trackpy).
 - 👥 Member of the scientific community [GOLF](https://www.facebook.com/golf.fisica) (Organized Group of Physics Undergrads).
 - 🌱 I'm currently learning 🖥️ Machine Learning, 🏗️ 3D modeling, ⚛️ Quantum Computing.
-- 📫 Here's my email: [Gmail](mailto:oswaldo.fonseca.u@gmail.com).
+- 📫 Here's my email: oswaldo.fonseca.u@gmail.com [eMail](mailto:oswaldo.fonseca.u@gmail.com).
 
 ### 📷 Amazing People!
 
