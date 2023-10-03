@@ -25,6 +25,6 @@ I'm Oswaldo, also named Oswi, studying for a Bachelor of Science⚛️ and Engin
 
 ### 📷 Amazing People!
 
-![My Community GOLF](Resources/GOLF.jpg)
-![My Community GOLF](Resources/GOLF_new.jpg)
+![GOLF 2022](Resources/GOLF.jpg)
+![My Community GOLF 2023](Resources/GOLF_new.jpg)
 ![DKU Exchange](Resources/DKU.jpg)
